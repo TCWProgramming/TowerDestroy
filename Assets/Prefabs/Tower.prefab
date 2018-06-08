@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4631586406323268}
   - component: {fileID: 114090327639479308}
   m_Layer: 0
-  m_Name: New Prefab
+  m_Name: Tower
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
