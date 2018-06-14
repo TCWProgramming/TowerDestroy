@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Tower_Test_Scene.unity
+- path: Assets/Scenes/Charge_Test.unity
   isLoaded: 1
   isActive: 1
