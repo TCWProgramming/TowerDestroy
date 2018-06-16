@@ -469,3 +469,7 @@ MonoBehaviour:
     type: 2}
   projectile_clone: {fileID: 0}
   projectile_dist: 5
+  force: 100
+  addForce_x: 40
+  addForce_y: 40
+  additionalForce_multiplier: 20
